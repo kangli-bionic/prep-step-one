@@ -3,7 +3,8 @@
       "expandable-chapters",
       "quiz",
       "hide-element",
-      "ga"
+      "ga",
+      "infinitescroll"
   ],
   "pluginsConfig": {
 
