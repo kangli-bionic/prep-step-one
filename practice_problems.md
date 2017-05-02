@@ -16,6 +16,9 @@ Academy, shoot us an email at contact@appacademy.io and we’ll re-send it to yo
 We've given you 21 practice problems to prepare! Many are more difficult than
 the problems you'll see in the coding challenge.
 
+We've also provided the same practice problems in JavaScript and Python in case
+you're more knowledgeable in those areas.  
+
 Good luck, future devs!
 
 ## Problems in Ruby

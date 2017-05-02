@@ -1,8 +1,13 @@
 {
   "plugins": [
+      "hide-element",
       "ga"
   ],
   "pluginsConfig": {
+
+    "hide-element": {
+          "elements": [".gitbook-link", "a:contains(JumpStart)", "a:contains(Configuration)", ".custom-link"]
+      },
       "ga": {
          "token": "UA-34702721-1"
      }
