@@ -68,6 +68,27 @@ Good luck, future devs!
 <li><a href="https://repl.it/HaVv/1">Number of Repeated Letters</a></li>
 </ol>
 
-
-
 ## Problems in Python
+<ol>
+<li><a href="https://repl.it/HaWg/5">Reverse</a></li>
+<li><a href="https://repl.it/HaX6/1">Factorial</a></li>
+<li><a href="https://repl.it/HaXb/2">Longest Word</a></li>
+<li><a href="https://repl.it/HaXf/1">Sum Nums</a></li>
+<li><a href="https://repl.it/HaXn/1">Time Conversion</a></li>
+<li><a href="https://repl.it/HaXs/1">Count Vowels</a></li>
+<li><a href="https://repl.it/HaYH/1">Palindrome</a></li>
+<li><a href="https://repl.it/HaYN/1">Nearby AZ</a></li>
+<li><a href="https://repl.it/HaYT/1">Two Sum</a></li>
+<li><a href="https://repl.it/HaY9/2">Is Power of 2?</a></li>
+<li><a href="https://repl.it/HaYh/2">Third Greatest</a></li>
+<li><a href="https://repl.it/HaYn/2">Most Common Letter</a></li>
+<li><a href="https://repl.it/HaYs/1">Dasherize Number</a></li>
+<li><a href="https://repl.it/HaZK/1">Capitalize Words</a></li>
+<li><a href="https://repl.it/HaZP/1">Scramble String</a></li>
+<li><a href="https://repl.it/HaZW/2">Is Prime?</a></li>
+<li><a href="https://repl.it/HaZ8/0">Nth Prime</a></li>
+<li><a href="https://repl.it/Ha0t">Longest Palindrome</a></li>
+<li><a href="https://repl.it/Ha1H/0">Greatest Common Factor</a></li>
+<li><a href="https://repl.it/Ha1N/0">Caesar Cipher</a></li>
+<li><a href="https://repl.it/Ha1U/0">Number of Repeated Letters</a></li>
+</ol>
