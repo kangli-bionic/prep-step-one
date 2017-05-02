@@ -241,7 +241,7 @@ reassign the variable for the left array to its concatenated value.
 
 ## `push`, `pop`, `unshift`, and `shift`
 
-<iframe src="https://player.vimeo.com/video/182440643?rel=0&autoplay=1" width="100%" height="400px" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style="line-height: 1.6em;" rel="line-height: 1.6em;"></iframe>
+<iframe src="https://player.vimeo.com/video/182440643?rel=0" width="100%" height="400px" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" style="line-height: 1.6em;" rel="line-height: 1.6em;"></iframe>
 
 Four crucial array methods allow one to add and remove elements from the front
 or back of an array. `push` adds an element to the end of an array, while `pop`
